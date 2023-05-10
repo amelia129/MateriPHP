@@ -1,0 +1,10 @@
+latihan 1
+![latihan 1](https://github.com/amelia129/MateriPHP/assets/130622658/cd64d9e6-5446-4ffe-8c2f-6675d8877609)
+latihan 2
+![latihan 2](https://github.com/amelia129/MateriPHP/assets/130622658/494fad68-606f-48f1-a302-aeaba6e107f6)
+latihan 3
+![latihan 3](https://github.com/amelia129/MateriPHP/assets/130622658/9136049e-d6a6-49c8-8c5e-36a50797c081)
+latihan 4
+![latihan 4](https://github.com/amelia129/MateriPHP/assets/130622658/a238eba8-aeb3-423d-b0f1-7f058626a562)
+latihan 5
+![latihan 5](https://github.com/amelia129/MateriPHP/assets/130622658/b8adc7ec-4395-405d-b496-b5f6716f7d50)
